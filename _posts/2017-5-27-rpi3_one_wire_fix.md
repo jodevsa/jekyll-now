@@ -4,15 +4,15 @@ title: Raspberry PI 3 one wire fix!
 published: true
 ---
 
-## Fixing RP3 dead usb ports:
+## Fixing Raspberry Pi dead usb ports:
 ![_config.yml](https://pbs.twimg.com/media/DApSHfzXgAQ65M6.jpg:large)
-This week, i decided to power on an old RaspberryPI3 to use it for monitoring a new webservice that i  built, only to find out keyboard/mouse connected to PI are not working.
+This week, i decided to power  an old Raspberry Pi to use it for monitoring a new webservice that i  built only to find out keyboard/mouse connected to PI are not working.
 
 
 #### i found out that Raspberry pi boards have testpoints that can be used for troubleshooting:
 According to Wikipedia, a test point is a "location within an electronic circuit that is used to either monitor the state of the circuitry or to inject test signals"  so basicly testpoint's will help me find out what is actually preventing usb ports to work!
 
-#### bellow is a list of RPI board test points:
+#### bellow is a list of Raspberry Pi board test points:
 
 
 | TestPoint ID | TestPoint Description |
