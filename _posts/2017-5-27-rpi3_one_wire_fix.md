@@ -6,7 +6,7 @@ published: true
 
 ## Fixing Raspberry Pi dead usb ports:
 ![_config.yml](https://pbs.twimg.com/media/DApSHfzXgAQ65M6.jpg:large)
-This week, i decided to power  an old Raspberry Pi to use it for monitoring a new webservice that i  built only to find out keyboard/mouse connected to PI are not working.
+This week, i decided to power  an old Raspberry Pi and use it for monitoring a new webservice that i  built only to find out keyboard/mouse connected to PI are not working.
 
 
 #### i found out that Raspberry pi boards have testpoints that can be used for troubleshooting:
